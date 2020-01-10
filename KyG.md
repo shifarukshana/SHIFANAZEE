@@ -1,7 +1,7 @@
-# Project Title : 
-### Batch NO :
-### Mentor Name :
-### Github Link : 
+# Project Title : Bejeweled
+### Batch NO :6
+### Mentor Name :Mrs.lanitha
+### Github Link : https://github.com/shifarukshana/SHIFANAZEE
 ### Team Details :
 | S.no  | Name  | Roll Number  | Email Id  |
 |-------|-------|--------------|-----------|
